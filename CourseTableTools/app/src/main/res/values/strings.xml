@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">课表&amp;天气</string>
+
+    <string name="open_content_drawer">Open the main menu</string>
+    <string name="close_content_drawer">Close the main menu</string>
+
+    <string name="nav_header_title">课表</string>
+    <string name="nav_header_subtitle">teamfour version:1.0</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+
+    <string name="menu_home">课表</string>
+    <string name="menu_gallery">天气</string>
+    <string name="menu_slideshow">个人</string>
+    <string name="about_author">关于作者</string>
+    <string name="menu_share">分享</string>
+    <string name="menu_about">关于</string>
+
+    <string name="login_head">课表&amp;天气</string>
+    <string name="login_user">请输入用户名</string>
+    <string name="login_password">请输入密码</string>
+    <string name="login_button">登录</string>
+
+    <string name="account_head">个人信息</string>
+    <string name="account_name">姓名</string>
+    <string name="account_num">学号</string>
+    <string name="account_college">学院</string>
+    <string name="account_profession">专业</string>
+
+    <string name="time_one">1</string>
+    <string name="time_two">2</string>
+    <string name="time_three">3</string>
+    <string name="time_four">4</string>
+    <string name="time_five">5</string>
+    <string name="time_six">6</string>
+
+    <string name="version">版本号：1.0</string>
+    <string name="about">由teamfour小组合作开发</string>
+    <string name="about_bottom">Copyright © 2019 Teamfour. All Rights Reserved.</string>
+</resources>
